@@ -1,0 +1,19 @@
+body{
+    background-image: url('media/the-lake-4-dragged_800x450.jpg');
+    background-size: 100%;
+    image-rendering: auto;
+    background-repeat: no-repeat;
+
+}
+.Note{
+    color:brown;
+    align: center;
+    font-size: large;
+    font-style: italic;
+}
+table{
+    background: red;
+}
+form{
+    background: blue;
+}
